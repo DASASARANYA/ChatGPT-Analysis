@@ -49,7 +49,7 @@ Filtering: Filter the dataset to include only positive reviews (df[df['sentiment
 
 Text Cleaning: Remove punctuation and convert text to lowercase to prepare for frequency counting.
 
-Keyword Extraction: Remove stop words (common, uninformative words like "the," "is") and count the frequency of remaining words to identify the top 20 most frequently mentioned positive keywords and phrases.
+Keyword Extraction: Remove stop words (common, uninformative words like "the," "is") and count the frequency of remaining words to identify the top 10 most frequently mentioned positive keywords and phrases.
 
 Data Visualization
 A series of charts are generated to support the narrative and reveal patterns.
